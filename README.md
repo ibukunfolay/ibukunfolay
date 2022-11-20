@@ -1,7 +1,7 @@
 # Welcome to My Github Repo 👋
 
 
-- 🌱 I’m build anything JavaScript. 
+- 🌱 I build anything JavaScript. 
 - 🌱 I’m currently focusing on CI/CD, AWS && QA Testing. 
 - 👯 I’m looking to collaborate on new and exciting projects, so please do reach out.
 - ⚡ Fun fact: The world is going to know my name.
