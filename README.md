@@ -1,5 +1,12 @@
 # Welcome to My Github Repo 👋
 
+
+- 🌱 I’m build anything JavaScript. 
+- 🌱 I’m currently focusing on CI/CD, AWS && QA Testing. 
+- 👯 I’m looking to collaborate on new and exciting projects, so please do reach out.
+- ⚡ Fun fact: The world is going to know my name.
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ibukunfolay&show_icons=true&theme=dark" />
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
@@ -28,10 +35,6 @@
 <img align="left" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img  src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 
-
-- 🌱 I’m currently learning CI/CD, AWS, QA Testing && 
-- 👯 I’m looking to collaborate on new and exciting projects, so please do reach out.
-- ⚡ Fun fact: The world is going to know my name.
 
   
 <!--
