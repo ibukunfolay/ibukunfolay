@@ -7,8 +7,8 @@
 - ⚡ Fun fact: The world is going to know my name.
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ibukunfolay&show_icons=true&theme=dark" />
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ibukunfolay&show_icons=true&theme=dark" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> -->
 
 ## Frameworks I use
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
